@@ -1,0 +1,12 @@
+{
+    "name": "My API",
+    "version": "1.0.0",
+    "description": "Documentation de l'API",
+    "title": "My API Documentation",
+    "url": "http://localhost:3000",
+    "sampleUrl": false,
+    "template": {
+      "withCompare": true,
+      "withGenerator": true
+    }
+  }
